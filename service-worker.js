@@ -120,7 +120,7 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/css/core.main~s.4ead8e2b3f537727e2b0.main.css",
     "revision": null
   }, {
-    "url": "/css/core.vendors-node_modules_deriv_deriv-api_dist_DerivAPIBasic_js-node_modules_deriv_deriv-onboardin-a0d54e.cadae8f178c6e1cf3a92.main.css",
+    "url": "/css/core.vendors-node_modules_deriv_deriv-api_dist_DerivAPIBasic_js-node_modules_deriv_deriv-onboardin-a0d54e.ffe7403c9494df59b039.main.css",
     "revision": null
   }, {
     "url": "/favicon.ico",
@@ -132,10 +132,10 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.account-signup-modal.0bf20dd54373172ae1a1.js",
     "revision": null
   }, {
-    "url": "/js/core.account.c91abf1700e1eb093904.js",
+    "url": "/js/core.account.1d5ed15915b5f54a22ac.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.fbdbb3538fec6890e795.js",
+    "url": "/js/core.bot.4f5cc879ca557c291754.js",
     "revision": null
   }, {
     "url": "/js/core.cashier.54e41539337451163d6b.js",
@@ -210,13 +210,13 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.main~components_src_components_a.9a88dcd6b2f7d027b922.js",
     "revision": null
   }, {
-    "url": "/js/core.main~components_src_components_c.cf6e3edb030afe809ff4.js",
+    "url": "/js/core.main~components_src_components_c.e64be08081f372417299.js",
     "revision": null
   }, {
     "url": "/js/core.main~components_src_components_l.2a6aa7d48fc67cf9ade5.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.eb3930a3e97cce6cc8bf.js",
+    "url": "/js/core.main~s.1b96fd2cd0c4815904d5.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
