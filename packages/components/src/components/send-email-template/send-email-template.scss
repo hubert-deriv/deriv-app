@@ -1,0 +1,36 @@
+/** @define send-email-template */
+.send-email-template {
+    padding: 0 16px;
+
+    &__title {
+        margin-bottom: 0.8rem;
+        line-height: 1.5;
+    }
+    &__subtitle {
+        margin-bottom: 1.6rem;
+    }
+    &__icon {
+        margin-top: 5.6rem;
+        margin-bottom: 1.6rem;
+        @include mobile {
+            margin-top: 3.2rem;
+        }
+    }
+    &__sent,
+    &__cta {
+        text-align: center;
+    }
+    &__cta-btn {
+        margin: 3.2rem auto 0;
+    }
+    &__btn {
+        margin: 0 auto;
+    }
+    &-dashboard {
+        width: calc(100vw - 33rem);
+    }
+    @include mobile {
+        margin-bottom: 1.6rem;
+        width: 100%;
+    }
+}
