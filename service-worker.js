@@ -135,7 +135,7 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.account.c91abf1700e1eb093904.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.90e3dff582299fd0272c.js",
+    "url": "/js/core.bot.fbdbb3538fec6890e795.js",
     "revision": null
   }, {
     "url": "/js/core.cashier.54e41539337451163d6b.js",
@@ -216,7 +216,7 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.main~components_src_components_l.2a6aa7d48fc67cf9ade5.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.f8156c94eac685e39122.js",
+    "url": "/js/core.main~s.eb3930a3e97cce6cc8bf.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
