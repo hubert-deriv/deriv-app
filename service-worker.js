@@ -135,7 +135,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.account.c297a3b770f3e46ddfb2.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.c8479f386e279c2480a7.js",
+    "url": "/js/core.bot.baabdfac76cb287a5dc4.js",
     "revision": null
   }, {
     "url": "/js/core.cashier.8283dd0cc31f0b4a0d70.js",
@@ -216,7 +216,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.main~components_src_components_l.c9b28b67c13b3bfceb66.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.5c0d6d66e7779e8c96e4.js",
+    "url": "/js/core.main~s.c40db3b78e2b4821b97c.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
@@ -321,16 +321,16 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_cfds_svg_af25ac66.f5ae4bce4b6e7a30efdb.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options-mobile_svg_a765406b.183a67b6aa6cec801c56.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options-mobile_svg_a765406b.695bf0882376f79a716f.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options_svg_6a6a8cad.c437c56a6f6ff6d841bb.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_digital-options_svg_6a6a8cad.18f2ca04ba05530b1b10.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers-mobile_svg_48db1f53.41820f31f50e1ccc7849.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers-mobile_svg_48db1f53.f75e3fb38cb27a1776dc.js",
     "revision": null
   }, {
-    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers_svg_67df4c4b.848e7fa7dee65b5616b1.js",
+    "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_multipliers_svg_67df4c4b.4228b879a3d4de46d12e.js",
     "revision": null
   }, {
     "url": "/js/core.welcome-modal~Assets_SvgComponents_onboarding_not-sure-mobile_svg_9ad91f0b.541a0fefc44e187ee1ee.js",
