@@ -67,7 +67,7 @@ if (!self.define) {
     });
   };
 }
-define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
+define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
 
   /**
   * Welcome to your Workbox-powered service worker!
@@ -132,13 +132,13 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.account-signup-modal.0bf20dd54373172ae1a1.js",
     "revision": null
   }, {
-    "url": "/js/core.account.1d5ed15915b5f54a22ac.js",
+    "url": "/js/core.account.c297a3b770f3e46ddfb2.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.4f5cc879ca557c291754.js",
+    "url": "/js/core.bot.c8479f386e279c2480a7.js",
     "revision": null
   }, {
-    "url": "/js/core.cashier.54e41539337451163d6b.js",
+    "url": "/js/core.cashier.8283dd0cc31f0b4a0d70.js",
     "revision": null
   }, {
     "url": "/js/core.close-mx-mlt-account-modal.0cd318d88ca63b88f9b8.js",
@@ -150,13 +150,13 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.dashboard~Modules_Dashboard_d.161a32cb8a2071684301.js",
     "revision": null
   }, {
-    "url": "/js/core.main~App_C.5421b3e2fb4358ca0794.js",
+    "url": "/js/core.main~App_C.f6f3149393f192f7935e.js",
     "revision": null
   }, {
-    "url": "/js/core.main~App_Components_E.22a85e26e874c8a9a267.js",
+    "url": "/js/core.main~App_Components_E.0e6d762006b23c2a7665.js",
     "revision": null
   }, {
-    "url": "/js/core.main~App_Cons.a33aa0e234bd9ed68476.js",
+    "url": "/js/core.main~App_Cons.2f11dc1617d4b37bc351.js",
     "revision": null
   }, {
     "url": "/js/core.main~As.46d95bc6db18bfc88e6e.js",
@@ -204,25 +204,25 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.main~c.014080f029d80e71e898.js",
     "revision": null
   }, {
-    "url": "/js/core.main~cashier_dist_cashier_js_cashier-store_js_77e8332f.7f64f74116e35d563b08.js",
+    "url": "/js/core.main~cashier_dist_cashier_js_cashier-store_js_77e8332f.a11b83752f8b5fc5bf39.js",
     "revision": null
   }, {
     "url": "/js/core.main~components_src_components_a.9a88dcd6b2f7d027b922.js",
     "revision": null
   }, {
-    "url": "/js/core.main~components_src_components_c.e64be08081f372417299.js",
+    "url": "/js/core.main~components_src_components_c.1b5bfb3ba207f8d21eb8.js",
     "revision": null
   }, {
-    "url": "/js/core.main~components_src_components_l.2a6aa7d48fc67cf9ade5.js",
+    "url": "/js/core.main~components_src_components_l.c9b28b67c13b3bfceb66.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.1b96fd2cd0c4815904d5.js",
+    "url": "/js/core.main~s.5c0d6d66e7779e8c96e4.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
     "revision": null
   }, {
-    "url": "/js/core.reset-or-unlink-password-modal.6973f0e2668f5b77eae0.js",
+    "url": "/js/core.reset-or-unlink-password-modal.b29d650211b82d36880c.js",
     "revision": null
   }, {
     "url": "/js/core.reset-password-modal.80ddfad053201bf18fd3.js",
@@ -246,7 +246,7 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.trader~account_dist_account_js_reset-trading-password-modal_js_ff517517.e7a9fc4a82013f8ef9f2.js",
     "revision": null
   }, {
-    "url": "/js/core.trader~trader_dist_trader_js_trader_js_4e59f282.eceee83653d52e7ee7c7.js",
+    "url": "/js/core.trader~trader_dist_trader_js_trader_js_4e59f282.87848e6467f4d884a4c5.js",
     "revision": null
   }, {
     "url": "/js/core.vendors-node_modules_babel_runtime_helpers_esm_classCallCheck_js-node_modules_babel_runtime_h-1aba2f.8c682a465719cc1d6c9e.js",
@@ -291,10 +291,10 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.vendors-node_modules_raf_index_js-node_modules_react-content-loader_dist_react-content-loader-4fed0e.aee9ab3a006227b0d8b8.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react-lifecycles-compat_react-lifecycles-compat_es_js-node_modules_react-54b804.04837ad31707a26acc30.js",
+    "url": "/js/core.vendors-node_modules_react-lifecycles-compat_react-lifecycles-compat_es_js-node_modules_react-552c40.8f0fb357837fce701a16.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react-swipeable_es_index_js-node_modules_react-tiny-popover_dist_Popover_js.2d17039e602a3f85ca30.js",
+    "url": "/js/core.vendors-node_modules_react-tiny-popover_dist_Popover_js.6fdd9894c82b49aa7041.js",
     "revision": null
   }, {
     "url": "/js/core.vendors-node_modules_react-transition-group_esm_CSSTransition_js-node_modules_react-transitio-85c8d7.8ab018279d2840385aed.js",
@@ -303,7 +303,7 @@ define(['./workbox-75e2861a'], (function (workbox) { 'use strict';
     "url": "/js/core.vendors-node_modules_react-transition-group_esm_index_js.d54ad15d43b684d1aa4f.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react_index_js.3601c738eaa45b80a31c.js",
+    "url": "/js/core.vendors-node_modules_react_jsx-runtime_js.5ae33e99af78c8ad1406.js",
     "revision": null
   }, {
     "url": "/js/core.vendors-node_modules_rooks_use-mutation-observer_lib_index_esm_js-node_modules_scheduler_inde-a1a9fe.0fab8890286b3c87df23.js",
