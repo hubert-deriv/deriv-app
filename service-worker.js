@@ -120,7 +120,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/css/core.main~s.4ead8e2b3f537727e2b0.main.css",
     "revision": null
   }, {
-    "url": "/css/core.vendors-node_modules_deriv_deriv-api_dist_DerivAPIBasic_js-node_modules_deriv_deriv-onboardin-a0d54e.ffe7403c9494df59b039.main.css",
+    "url": "/css/core.vendors-node_modules_deriv_deriv-api_dist_DerivAPIBasic_js-node_modules_deriv_deriv-onboardin-a0d54e.cadae8f178c6e1cf3a92.main.css",
     "revision": null
   }, {
     "url": "/favicon.ico",
@@ -132,13 +132,13 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.account-signup-modal.0bf20dd54373172ae1a1.js",
     "revision": null
   }, {
-    "url": "/js/core.account.c297a3b770f3e46ddfb2.js",
+    "url": "/js/core.account.d8442ff4b87ec39e0d13.js",
     "revision": null
   }, {
-    "url": "/js/core.bot.42bc2cd53284cd0b4124.js",
+    "url": "/js/core.bot.1c7a539b1d1427cd3c6e.js",
     "revision": null
   }, {
-    "url": "/js/core.cashier.8283dd0cc31f0b4a0d70.js",
+    "url": "/js/core.cashier.d90ecdd258010a6f14a0.js",
     "revision": null
   }, {
     "url": "/js/core.close-mx-mlt-account-modal.0cd318d88ca63b88f9b8.js",
@@ -150,7 +150,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.dashboard~Modules_Dashboard_d.161a32cb8a2071684301.js",
     "revision": null
   }, {
-    "url": "/js/core.main~App_C.f6f3149393f192f7935e.js",
+    "url": "/js/core.main~App_C.60d559162c27373ee224.js",
     "revision": null
   }, {
     "url": "/js/core.main~App_Components_E.0e6d762006b23c2a7665.js",
@@ -213,10 +213,10 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.main~components_src_components_c.1b5bfb3ba207f8d21eb8.js",
     "revision": null
   }, {
-    "url": "/js/core.main~components_src_components_l.c9b28b67c13b3bfceb66.js",
+    "url": "/js/core.main~components_src_components_l.2a6aa7d48fc67cf9ade5.js",
     "revision": null
   }, {
-    "url": "/js/core.main~s.2571de625239fe9ca786.js",
+    "url": "/js/core.main~s.f91cf2a19a4e17c118af.js",
     "revision": null
   }, {
     "url": "/js/core.reality-check-modal.8044bad13a05cbf9cb7e.js",
@@ -234,7 +234,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.settings-language.af91c97382edffc8bc09.js",
     "revision": null
   }, {
-    "url": "/js/core.settings-theme.e819158d8444add02ba5.js",
+    "url": "/js/core.settings-theme.03fe75e24e1ad324b8e7.js",
     "revision": null
   }, {
     "url": "/js/core.trader~account_dist_account_c.79aaab072cb44a1952bd.js",
@@ -291,10 +291,10 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.vendors-node_modules_raf_index_js-node_modules_react-content-loader_dist_react-content-loader-4fed0e.aee9ab3a006227b0d8b8.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react-lifecycles-compat_react-lifecycles-compat_es_js-node_modules_react-552c40.8f0fb357837fce701a16.js",
+    "url": "/js/core.vendors-node_modules_react-lifecycles-compat_react-lifecycles-compat_es_js-node_modules_react-54b804.04837ad31707a26acc30.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react-tiny-popover_dist_Popover_js.6fdd9894c82b49aa7041.js",
+    "url": "/js/core.vendors-node_modules_react-swipeable_es_index_js-node_modules_react-tiny-popover_dist_Popover_js.2d17039e602a3f85ca30.js",
     "revision": null
   }, {
     "url": "/js/core.vendors-node_modules_react-transition-group_esm_CSSTransition_js-node_modules_react-transitio-85c8d7.8ab018279d2840385aed.js",
@@ -303,7 +303,7 @@ define(['./workbox-6ad7267b'], (function (workbox) { 'use strict';
     "url": "/js/core.vendors-node_modules_react-transition-group_esm_index_js.d54ad15d43b684d1aa4f.js",
     "revision": null
   }, {
-    "url": "/js/core.vendors-node_modules_react_jsx-runtime_js.5ae33e99af78c8ad1406.js",
+    "url": "/js/core.vendors-node_modules_react_index_js.3601c738eaa45b80a31c.js",
     "revision": null
   }, {
     "url": "/js/core.vendors-node_modules_rooks_use-mutation-observer_lib_index_esm_js-node_modules_scheduler_inde-a1a9fe.0fab8890286b3c87df23.js",
